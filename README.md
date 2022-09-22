@@ -2,6 +2,8 @@
 
 Projeto baseado na aula de iniciando com react js da Alura.
 
+Resultado na vercel: https://organo-react-js-q8m6.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
